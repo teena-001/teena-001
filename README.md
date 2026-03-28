@@ -11,7 +11,7 @@ A passionate **Developer** from India, dedicated to building intelligent systems
 - 🌱 **Learning:** Deep Learning • Neural Networks • Generative AI
 - 👯 **Open to:** Collaborating on Open Source AI Tools
 - 💬 **Expertise:** Python, Machine Learning, FastAPI, MERN Stack
-- 📫 **Reach me:** rahulshaky9653@gmail.com
+- 📫 **Reach me:** teenafartyal@gmail.com
 
 ---
 
