@@ -51,21 +51,22 @@ I’m passionate about learning new technologies and building real-world project
 
   <!-- GitHub Stats -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=teena-001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teena-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 
   <!-- Top Languages -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teena-001&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teena-001&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
 <p align="center">
 
-  <!-- Streak Stats -->
+  <!-- GitHub Streak -->
 
-  <img src="https://streak-stats.demolab.com?user=teena-001&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=teena-001&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
+
 
 
 ---
